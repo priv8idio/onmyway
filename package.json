@@ -1,0 +1,39 @@
+{
+  "name": "telegraf_bot",
+  "version": "1.0.0",
+  "description": "Contoh membuat bot telegram dengan telegraf",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gist.github.com/773e455d0b68ed1974ca54e2581fcc7e.git"
+  },
+  "keywords": [
+    "Telegraf"
+  ],
+  "author": "Asep Junawan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://gist.github.com/773e455d0b68ed1974ca54e2581fcc7e"
+  },
+  "homepage": "https://gist.github.com/773e455d0b68ed1974ca54e2581fcc7e",
+  "dependencies": {
+    "bignumber.js": "^9.0.0",
+    "bitbox-cli": "^2.1.0",
+    "firebase": "^7.8.0",
+    "firebase-admin": "^8.9.2",
+    "google-spreadsheet": "^2.0.8",
+    "node-telegram-bot-api": "^0.40.0",
+    "promisify": "0.0.3",
+    "random-number": "^0.0.9",
+    "request": "^2.88.0",
+    "s": "^1.0.0",
+    "slpjs": "^0.23.3",
+    "sql-template-strings": "^2.2.2",
+    "sqlite": "^3.0.3",
+    "telegraf": "^3.36.0",
+    "util.promisify": "^1.0.1"
+  }
+}
